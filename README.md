@@ -1,42 +1,48 @@
-
 Hello! I'm Byeonggi Min.
 
 I'm a Developer like Problem Solving.
 
 ## 😃 About Me
 
-Major in Physics (17.03.01 ~ 23.02.24)<br>
-SSAFY 9th (23.01 ~ )<br>
+SSAFY 9th (2023.01 ~ )<br>
+Major in Physics (2017.03 ~ 2023.02)<br>
 
 ## 📚 Skills
 
-<img src="https://img.shields.io/badge/JAVA-E34F26?style=flat-square&logo=JAVA&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-E34F26?style=flat-square`&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-E34F26?style=flat-square`&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySql-E34F26?style=flat-square`&logo=MySql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringMVC-E34F26?style=flat-square`&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/VUE.js-E34F26?style=flat-square`&logo=VUE.js&logoColor=white"/>
+<div align=center>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572b6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-e7df1e?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/tailwind css-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/jira-0052cc?style=for-the-badge&logo=jirasoftware&logoColor=white">
 
+</div>
 
+<hr>
 
-## Projects
+![bmincof's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmincof&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmincof&layout=compact&theme=dark)
 
-## Others
+<br>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bmincof&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bmincof)](https://solved.ac/bmincof)
 
-## 📧 Contact Me
-<img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square`&logo=Gmail&logoColor=white"/>
+## 📧 Contact
+
+<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square`&logo=gmail&logoColor=white"/>
 bminlvcoffee@gmail.com
-
-<!-- 
-  상중하로는 구분해서 적지 말 것
-  자소서라면
-  가장 자신 있는 기술 1개 : 상 (깊게 공부한 것, 프레임워크 추천)
-  나머지 중~중상
-
-  사용가능한 기술 스택
-  프로젝트에서 메인으로 써봤거나하면 기술스택에 추가해도 됨
- -->
