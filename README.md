@@ -35,10 +35,6 @@ Major in Physics (2017.03 ~ 2023.02)<br>
 
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bmincof&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bmincof)](https://solved.ac/bmincof)
 
