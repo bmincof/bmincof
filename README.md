@@ -30,13 +30,16 @@ Major in Physics (2017.03 ~ 2023.02)<br>
 
 <hr>
 
-![bmincof's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmincof&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmincof&layout=compact&theme=dark)
-
-<br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bmincof)](https://solved.ac/bmincof)
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=cold)
+
+<br>
+
+![bmincof's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmincof&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmincof&layout=compact&theme=dark)
 
 ## 📧 Contact
 
