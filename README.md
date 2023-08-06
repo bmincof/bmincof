@@ -33,8 +33,7 @@ Major in Physics (2017.03 ~ 2023.02)<br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bmincof)](https://solved.ac/bmincof)
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=cold)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=bmincof&theme=cold)
 
 <br>
 
